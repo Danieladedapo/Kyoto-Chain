@@ -1,4 +1,3 @@
-# Kyoto-Chain
 {
   "chainInfo": {
     "minL2BaseFee": 100000000,
